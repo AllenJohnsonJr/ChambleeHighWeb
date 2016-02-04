@@ -1,0 +1,30 @@
+HTML {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; HEIGHT: 100%; TEXT-ALIGN: center
+}
+BODY {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; HEIGHT: 100%; TEXT-ALIGN: center
+}
+#wrapper {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none; HEIGHT: 100%; TEXT-ALIGN: center
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #cccccc; BACKGROUND-IMAGE: url(../scripts/backgroundlines.gif); MARGIN: 0px; SCROLLBAR-HIGHLIGHT-COLOR: #cccccc; SCROLLBAR-SHADOW-COLOR: #cccccc; COLOR: #ffffff; SCROLLBAR-3DLIGHT-COLOR: #999999; SCROLLBAR-ARROW-COLOR: #999999; SCROLLBAR-TRACK-COLOR: #000000; FONT-FAMILY: Arial; SCROLLBAR-DARKSHADOW-COLOR: #999999
+}
+#wrapper {
+	MARGIN: 0px auto; VERTICAL-ALIGN: middle
+}
+#flashcontent {
+	OVERFLOW: hidden
+}
+#splashspacer {
+	HEIGHT: 15%
+}
+A:link {
+	COLOR: #990000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #cc0000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
